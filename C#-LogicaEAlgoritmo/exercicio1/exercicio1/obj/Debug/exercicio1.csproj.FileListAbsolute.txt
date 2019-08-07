@@ -1,0 +1,7 @@
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio1\obj\Debug\exercicio1.csprojAssemblyReference.cache
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio1\obj\Debug\exercicio1.pdb

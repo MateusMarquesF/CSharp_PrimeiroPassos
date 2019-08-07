@@ -1,0 +1,7 @@
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio8_salariobonus\bin\Debug\exercicio8_salariobonus.exe.config
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio8_salariobonus\bin\Debug\exercicio8_salariobonus.exe
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio8_salariobonus\bin\Debug\exercicio8_salariobonus.pdb
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio8_salariobonus\obj\Debug\exercicio8_salariobonus.csprojAssemblyReference.cache
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio8_salariobonus\obj\Debug\exercicio8_salariobonus.csproj.CoreCompileInputs.cache
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio8_salariobonus\obj\Debug\exercicio8_salariobonus.exe
+C:\Users\Souza\Documents\Curso_c#\exercicio1\exercicio8_salariobonus\obj\Debug\exercicio8_salariobonus.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Exercicios_EstruturaRepetitiva\Exercicios_EstruturaRepetitiva\bin\Debug\Exercicios_EstruturaRepetitiva.exe.config
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Exercicios_EstruturaRepetitiva\Exercicios_EstruturaRepetitiva\bin\Debug\Exercicios_EstruturaRepetitiva.exe
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Exercicios_EstruturaRepetitiva\Exercicios_EstruturaRepetitiva\bin\Debug\Exercicios_EstruturaRepetitiva.pdb
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Exercicios_EstruturaRepetitiva\Exercicios_EstruturaRepetitiva\obj\Debug\Exercicios_EstruturaRepetitiva.csprojResolveAssemblyReference.cache
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Exercicios_EstruturaRepetitiva\Exercicios_EstruturaRepetitiva\obj\Debug\Exercicios_EstruturaRepetitiva.exe
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Exercicios_EstruturaRepetitiva\Exercicios_EstruturaRepetitiva\obj\Debug\Exercicios_EstruturaRepetitiva.pdb

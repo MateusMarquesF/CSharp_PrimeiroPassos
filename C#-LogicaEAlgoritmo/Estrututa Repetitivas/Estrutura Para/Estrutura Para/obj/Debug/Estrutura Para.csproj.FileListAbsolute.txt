@@ -1,0 +1,6 @@
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura Para\Estrutura Para\bin\Debug\Estrutura Para.exe.config
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura Para\Estrutura Para\bin\Debug\Estrutura Para.exe
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura Para\Estrutura Para\bin\Debug\Estrutura Para.pdb
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura Para\Estrutura Para\obj\Debug\Estrutura Para.csprojResolveAssemblyReference.cache
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura Para\Estrutura Para\obj\Debug\Estrutura Para.exe
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura Para\Estrutura Para\obj\Debug\Estrutura Para.pdb

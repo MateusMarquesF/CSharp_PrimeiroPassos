@@ -1,0 +1,6 @@
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura para\ExercicioResolvido_URI1071\bin\Debug\ExercicioResolvido_URI1071.exe.config
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura para\ExercicioResolvido_URI1071\bin\Debug\ExercicioResolvido_URI1071.exe
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura para\ExercicioResolvido_URI1071\bin\Debug\ExercicioResolvido_URI1071.pdb
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura para\ExercicioResolvido_URI1071\obj\Debug\ExercicioResolvido_URI1071.csprojResolveAssemblyReference.cache
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura para\ExercicioResolvido_URI1071\obj\Debug\ExercicioResolvido_URI1071.exe
+C:\Users\Marques\Documents\Visual Studio 2017\Projects\Curso_c#\Estrututa Repetitivas\Estrutura para\ExercicioResolvido_URI1071\obj\Debug\ExercicioResolvido_URI1071.pdb

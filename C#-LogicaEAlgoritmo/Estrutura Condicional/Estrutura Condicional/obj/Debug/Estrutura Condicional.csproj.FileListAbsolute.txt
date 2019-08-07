@@ -1,0 +1,6 @@
+E:\bkp_note_antigo\Curso_c#\Estrutura Condicional\Estrutura Condicional\bin\Debug\Estrutura Condicional.exe.config
+E:\bkp_note_antigo\Curso_c#\Estrutura Condicional\Estrutura Condicional\bin\Debug\Estrutura Condicional.exe
+E:\bkp_note_antigo\Curso_c#\Estrutura Condicional\Estrutura Condicional\bin\Debug\Estrutura Condicional.pdb
+E:\bkp_note_antigo\Curso_c#\Estrutura Condicional\Estrutura Condicional\obj\Debug\Estrutura Condicional.csprojResolveAssemblyReference.cache
+E:\bkp_note_antigo\Curso_c#\Estrutura Condicional\Estrutura Condicional\obj\Debug\Estrutura Condicional.exe
+E:\bkp_note_antigo\Curso_c#\Estrutura Condicional\Estrutura Condicional\obj\Debug\Estrutura Condicional.pdb
